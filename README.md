@@ -61,7 +61,7 @@
 
 #### DevOps Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="40" height="40"/>  
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png" alt="AWS" title="AWS" width="40" height="40"/>  
 </p>
 
 #### Computer Vision / AI Stack
