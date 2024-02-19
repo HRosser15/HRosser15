@@ -10,7 +10,7 @@
 <h3 align="left">How to reach me:</h3>
 
 - email: hrosser15@gmail.com
-- LinkedIn: https://linkedin.com/in/harrison-rosser-4a677a277/
+- LinkedIn: https://linkedin.com/in/harrison-rosser/
 
 
 ###
