@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harrison👋</h1>
-<h3 align="center">As a senior Software Engineering student, I possess a versatile skill set and a passion for diverse development. Open to exploring opportunities in various programming domains.</h3>
+<h3 align="center">As a senior Software Engineering student, I have a versatile skill set and a passion for diverse development. Open to exploring opportunities in various programming domains.</h3>
 
 - I’m a 4th year Software Engineering student at KSU, graduating Spring 2024.
 - I’m currently working on **Video Difference Detection** using computer vision and a **Full Stack Accounting Website**.
