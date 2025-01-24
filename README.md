@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Harrison👋</h1>
-<h3 align="center">As a Software Engineer, I have a versatile skill set and a passion for diverse development. Open to exploring opportunities in various programming domains.</h3>
+<h3 align="center">Software Engineer open to exploring opportunities in various programming domains.</h3>
 
-- I’m a college grad with a BS in Software Engineering.
-- I’m currently working on **Video Difference Detection** using computer vision and a **Full Stack Accounting Website** using React and Spring Boot.
-- Actively pursuing proficiency in Pandas, Numpy, and VBA.
+- I’m a college graduate with a BS in Software Engineering.
+- I’m currently working on **Video Difference Detection** using Python and OpenCV as well as a **Full Stack Accounting Website** using React and Spring Boot.
 - Enthusiastic about learning new technologies and methodologies to tackle diverse and challenging projects.
 
 
@@ -13,13 +12,12 @@
 - LinkedIn: https://linkedin.com/in/harrison-rosser/
 
 
-###
-<!-- GIF -->
-<p align="right">
-<img align="right" height="300" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
-</p>
 
-###
+<!-- Top Languages -->
+<div style="margin: 0 auto;">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrosser15&show_icons=true&locale=en&layout=compact" alt="hrosser15" />
+</div>
+
 
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
@@ -33,13 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/> 
 </p>
 
-#### OS Stack
-<p align="left">
-  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
 
 #### Database Stack
 <p align="left">
@@ -47,11 +40,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  
 
 
-<!-- GIF Container -->
-<div style="margin: 0 auto;">
-  <img align="right" height="200" width="200" src="https://i.redd.it/xl5cyhhqmsab1.gif" />
-  <img align="right" height="150" width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRhb255OHRjbXlzY2s3eWRkbXQxNjN0d3Jjd29tMWR6bzNhOGV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" />
-</div>
 
 
 #### Project Management Stack
@@ -67,15 +55,9 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png" alt="AWS" title="AWS" width="40" height="40"/>  
 </p>
 
-<!-- Top Languages -->
-<div style="margin: 0 auto;">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrosser15&show_icons=true&locale=en&layout=compact" alt="hrosser15" />
-</div>
-
 #### Computer Vision / AI Stack
 <p aklign="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/224px-Tensorflow_logo.svg.png" alt="TensorFlow" title="TensorFlow" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="40" height="40"/> height="40"/> 
 </p>
 
 
